@@ -1,4 +1,4 @@
-				----type of data in python----
+	----type of data in python----
 
 x = 1j											|	complex	
 x = ["apple", "banana", "cherry"]				|	list	
